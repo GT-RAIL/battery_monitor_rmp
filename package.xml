@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>battery_monitor_rmp</name>
-  <version>0.0.0</version>
+  <version>0.0.1</version>
   <description>Monitor for the Segway Batteries</description>
 
   <author email="cmdunkers@wpi.edu">Chris Dunkers</author>
