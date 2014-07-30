@@ -5,3 +5,6 @@ Original Authors
 
 Contributors
 ------------
+
+ * [Russell Toris](rctoris@wpi.edu)
+ 

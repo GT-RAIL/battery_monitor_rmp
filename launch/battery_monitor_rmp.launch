@@ -12,5 +12,4 @@
     <param name="rear_base_batt_2" type="bool" value="$(arg rear_base_batt_2)" />
     <param name="aux_batt" type="bool" value="$(arg aux_batt)" />
   </node>
-
 </launch>

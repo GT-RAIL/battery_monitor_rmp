@@ -9,7 +9,6 @@ Version: June 23, 2014
 from ros_ethernet_rmp.msg import RMPFeedback
 from battery_monitor_rmp.msg import RMPBatteryStatus 
 from python_ethernet_rmp.system_defines import *
-from std_msgs.msg import String
 import rospy
 import math
 import time
