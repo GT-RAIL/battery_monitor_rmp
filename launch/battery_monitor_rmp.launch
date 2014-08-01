@@ -5,7 +5,7 @@
   <arg name="rear_base_batt_2" value="false" />
   <arg name="aux_batt" value="true" />
 
-  <node pkg="battery_monitor_rmp" type="monitor_rmp" name="monitor_rmp" output="screen">
+  <node pkg="battery_monitor_rmp" type="monitor_rmp.py" name="monitor_rmp" output="screen">
     <param name="front_base_batt_1" type="bool" value="$(arg front_base_batt_1)" />
     <param name="front_base_batt_2" type="bool" value="$(arg front_base_batt_2)" />
     <param name="rear_base_batt_1" type="bool" value="$(arg rear_base_batt_1)" />
