@@ -6,8 +6,7 @@ Battery monitor for the Segway RMP platform.
 Author:  Chris Dunkers, Worcester Polytechnic Institute
 Version: June 23, 2014
 """
-from ros_ethernet_rmp.msg import RMPFeedback
-from battery_monitor_rmp.msg import RMPBatteryStatus 
+from rmp_msgs.msg import RMPFeedback, RMPBatteryStatus
 from python_ethernet_rmp.system_defines import *
 import rospy
 import math
