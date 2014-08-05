@@ -2,6 +2,15 @@
 Changelog for package battery_monitor_rmp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.2 (2014-08-05)
+------------------
+* fixed node name in launch
+* missing dep added for travis
+* travis now pull messages from source
+* removed unused build deps
+* moved to rmp_msgs
+* Contributors: Russell Toris
+
 0.0.1 (2014-07-30)
 ------------------
 * cleanup
