@@ -1,4 +1,4 @@
-battery_monitor_rmp [![Build Status](https://api.travis-ci.org/WPI-RAIL/battery_monitor_rmp.png)](https://travis-ci.org/WPI-RAIL/battery_monitor_rmp)
+battery_monitor_rmp [![Build Status](https://api.travis-ci.org/GT-RAIL/battery_monitor_rmp.png)](https://travis-ci.org/GT-RAIL/battery_monitor_rmp)
 ===================
 
 #### Monitor for the Segway Batteries
