@@ -20,7 +20,10 @@ install:
   - rosdep update
   - mkdir -p /tmp/ws/src
   - ln -s `pwd` /tmp/ws/src/package
-  - cd /tmp/ws
+  - cd /tmp/ws/src
+  - git clone https://github.com/GT-RAIL/rmp_msgs.git
+  - git clone https://github.com/GT-RAIL/python_ethernet_rmp.git
+  - cd ../
   - rosdep install --from-paths src --ignore-src --rosdistro hydro -y
 
 script:
