@@ -5,7 +5,7 @@
   <description>Monitor for the Segway Batteries</description>
 
   <author email="cmdunkers@wpi.edu">Chris Dunkers</author>
-  <maintainer email="rctoris@wpi.edu">Russell Toris</maintainer>
+  <maintainer email="russell.toris@gmail.com">Russell Toris</maintainer>
   <maintainer email="dekent@gatech.edu">David Kent</maintainer>
 
   <license>BSD</license>
